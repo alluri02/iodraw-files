@@ -67,8 +67,13 @@
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="216.75" y="255.5" as="sourcePoint" />
-            <mxPoint x="385.5" y="255.5" as="targetPoint" />
+            <mxPoint x="220" y="421.5" as="sourcePoint" />
+            <mxPoint x="388.75" y="421.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-18" value="Zoom In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-pXZ8cSP5FojSJ8Hu0pb-17">
+          <mxGeometry x="-0.2889" y="-9" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
