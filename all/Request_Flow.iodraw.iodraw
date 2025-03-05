@@ -57,7 +57,10 @@
           <mxGeometry x="560" y="282" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
-          <mxGeometry x="580" y="360" width="41" height="53" as="geometry" />
+          <mxGeometry x="750" y="216.5" width="41" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;RPaaS&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="292" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
