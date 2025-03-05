@@ -74,18 +74,13 @@
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-21" value="&lt;h4&gt;Middleware Pipeline&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="620" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-22" value="Routing &amp;amp; Controller&lt;br&gt;Execution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-22" value="&lt;h4&gt;Routing &amp;amp; Controller&lt;br&gt;Execution&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="850" y="392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXZ8cSP5FojSJ8Hu0pb-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="421.5" as="sourcePoint" />
             <mxPoint x="620" y="422" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-24" value="Zoom In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-pXZ8cSP5FojSJ8Hu0pb-23">
-          <mxGeometry x="-0.2889" y="-9" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1" target="-pXZ8cSP5FojSJ8Hu0pb-20">
