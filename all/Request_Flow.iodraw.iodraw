@@ -65,22 +65,14 @@
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="151.75" y="390" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1">
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1" source="-pXZ8cSP5FojSJ8Hu0pb-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="421.5" as="sourcePoint" />
             <mxPoint x="388.75" y="421.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-18" value="Zoom In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-pXZ8cSP5FojSJ8Hu0pb-17">
-          <mxGeometry x="-0.2889" y="-9" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-19" value="Liftr RP Web&lt;div&gt;Service&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="449" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-20" value="Kestrel Validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-21" value="Middleware Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="392" width="120" height="60" as="geometry" />
@@ -88,16 +80,30 @@
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-22" value="Routing &amp;amp; Controller&lt;br&gt;Execution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1">
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXZ8cSP5FojSJ8Hu0pb-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="421.5" as="sourcePoint" />
-            <mxPoint x="678.75" y="421.5" as="targetPoint" />
+            <mxPoint x="620" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-24" value="Zoom In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-pXZ8cSP5FojSJ8Hu0pb-23">
           <mxGeometry x="-0.2889" y="-9" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1" target="-pXZ8cSP5FojSJ8Hu0pb-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="421.5" as="sourcePoint" />
+            <mxPoint x="388.75" y="421.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-26" value="Zoom In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-pXZ8cSP5FojSJ8Hu0pb-25">
+          <mxGeometry x="-0.2889" y="-9" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-20" value="Kestrel Validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
