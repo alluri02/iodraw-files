@@ -71,7 +71,7 @@
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-pXZ8cSP5FojSJ8Hu0pb-21" target="-pXZ8cSP5FojSJ8Hu0pb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-21" value="Middleware Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-21" value="&lt;h4&gt;Middleware Pipeline&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="620" y="392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-22" value="Routing &amp;amp; Controller&lt;br&gt;Execution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-20" value="&lt;h5&gt;Kestrel Validation&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-20" value="&lt;h4&gt;Kestrel Validation&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="360" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
