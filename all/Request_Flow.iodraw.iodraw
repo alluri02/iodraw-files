@@ -83,10 +83,10 @@
           <mxGeometry x="390" y="392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-21" value="Middleware Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="392" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-22" value="Middleware Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="384" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
