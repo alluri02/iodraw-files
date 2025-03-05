@@ -97,8 +97,8 @@
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-20" value="&lt;h4&gt;Kestrel Validation&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="360" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="180" height="120" as="geometry" />
+        <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-29" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;Header length validation in ASP.NET Core (Kestrel) happens at Kestrel’s request processing stage, before the request reaches middleware or the controller&lt;/pre&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="470" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
