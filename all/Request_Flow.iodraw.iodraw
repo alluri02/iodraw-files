@@ -101,7 +101,7 @@
           <mxGeometry x="352.5" y="514" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-pXZ8cSP5FojSJ8Hu0pb-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Nginx validates header length before forwarding the request to an upstream server (like Kestrel). The validation happens in the request processing stage, specifically when Nginx parses and buffers the request headers.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="678.5" y="136.5" width="190" height="143.5" as="geometry" />
+          <mxGeometry x="678.5" y="136.5" width="190" height="153.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
